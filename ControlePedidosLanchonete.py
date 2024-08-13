@@ -1,5 +1,5 @@
 # Autora: Joziane Oliveira
-# Descrição: Controle de pedidos de uma lanchonete
+# Descrição: Controle de pedidos de uma lanchonete com python
 
 def menu():
     print("===MENU PRINCIPAL===")
