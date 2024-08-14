@@ -70,7 +70,7 @@ def main():
                     print("=================LANCHES================")
                     print("========================================")
                     print("1 - MODA DA CASA --------------- R$27,00")
-                    print("2 - BURGUER SALADA ------------- R$21,00")
+                    print("2 - BURGUER SALADA ------------- R$20,00")
                     print("3 - FRAMBURGUER SALADA --------- R$25,00")
                     print("4 - X-EGG BACON ---------------- R$25,00")
                     print("5 - AMERICANO ------------------ R$23,00")
