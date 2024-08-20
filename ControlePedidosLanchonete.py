@@ -2,8 +2,8 @@
 # Descrição: Controle de pedidos de uma lanchonete com python
 
 def menu():
-    print("====MENU PRINCIPAL====")
-    print("======================")
+    print("===MENU PRINCIPAL===")
+    print("====================")
     print("1 - LANCHES")
     print("2 - ACOMPANHAMENTOS")
     print("3 - BEBIDAS")
