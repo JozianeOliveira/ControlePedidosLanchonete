@@ -1,5 +1,5 @@
 <h1>Controle de pedidos em uma lanchonete</h1>
-<p align="left">🍔💻📊 Sistema de controle de pedidos para lanchonetes desenvolvido em Python. <br>📝📈 Permite selecionar lanches, acompanhamentos e bebidas, calcular valores e exibir totais de vendas do dia.</p>
+<p align="left">🍔💻📊 Sistema de controle de pedidos para lanchonetes desenvolvido em Python. <br>📝📈 Permite selecionar lanches, acompanhamentos e bebidas, calcular valores e exibir total de vendas.</p>
 <h3 align="left">Funcionalidades</h3>
 <ul>
   <li> <strong>Menu Principal:</strong> Oferece opções para escolher lanches, acompanhamentos, bebidas ou sair do sistema.</li>
