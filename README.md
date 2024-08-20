@@ -7,11 +7,11 @@
   <li> <strong>Cálculo de Totais:</strong> Calcula o valor total de lanches, acompanhamentos e bebidas. Exibe o total geral das vendas ao final.</li>
   <li> <strong>Interface de Texto:</strong> Interage com o usuário por meio de um menu baseado em texto.</li>
 </ul>
-<h3 align="left">Tecnologias</h3>
+<h3 align="left">Tecnologias:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
 </div>
-<h3 align="left">Autora</h3>
+<h3 align="left">Autora:</h3>
 <p align="left">Joziane Oliveira</p>
 <div align="left">
   <a href="https://www.linkedin.com/in/joziane-oliveira-144317182/" target="_blank">
