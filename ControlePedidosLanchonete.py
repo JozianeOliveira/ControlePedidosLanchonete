@@ -182,7 +182,7 @@ def main():
         print(f"\nTotal de vendas de Lanches: R$ {totalLanches:.2f}")
         print(f"Total de vendas de Acompanhamentos: R$ {totalAcompanhamentos:.2f}")
         print(f"Total de vendas de Bebidas: R$ {totalBebidas:.2f}")
-        print(f"Total geral de vendas do dia: R$ {totalGeral:.2f}")
+        print(f"Total geral de vendas: R$ {totalGeral:.2f}")
         print("\nSaindo do sistema.")
 
 if __name__ == "__main__":
