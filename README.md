@@ -1,5 +1,5 @@
 <h1>Controle de pedidos em uma lanchonete</h1>
-<p align="left">🍔💻📊 Sistema de controle de pedidos para lanchonetes desenvolvido em Python. <br>
+<p align="left">🍔💻📊 Sistema de controle de pedidos para lanchonete desenvolvido em Python. <br>
   
 📝📈 Permite selecionar lanches, acompanhamentos e bebidas, calcular valores e exibir total de vendas.</p>
 
